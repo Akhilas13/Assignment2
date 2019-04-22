@@ -114,8 +114,4 @@ footer{
 	.nav-bar li a{
 		font-size: 5px;
 	}
-@media (max-width: 600px){
-	.grid_3{
-		display: block;
-	}
-}
+
