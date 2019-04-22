@@ -105,13 +105,3 @@ footer{
 .g11 img{
 	margin-bottom: 15px;
 }
-@media (min-width: 1426px){
-	.nav-bar li a{
-		font-size: 20px;
-	}
-}
-@media (max-width: 1426px){
-	.nav-bar li a{
-		font-size: 5px;
-	}
-
